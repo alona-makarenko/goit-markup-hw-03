@@ -42,7 +42,6 @@ img {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 
 .header-container {
@@ -307,7 +306,6 @@ img {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  padding: 24px 0;
 }
 
 .footer-logo .part-logo {
